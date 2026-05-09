@@ -1,0 +1,1 @@
+export const SkillsSections = ['ALL','DESKTOP','WEB','TOOLS'] as const;
