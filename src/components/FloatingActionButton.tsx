@@ -10,7 +10,7 @@ export function FloatingActionButton() {
     )
   };
   return (
-    <div className="fixed bottom-8 right-8 z-40 hidden md:flex group">
+    <div className="fixed bottom-8 right-8 z-40 flex group">
       <button
         onClick={handleContact}
         className="cursor-pointer w-16 h-16 rounded-full bg-secondary text-on-secondary shadow-2xl flex items-center justify-center hover:scale-110 transition-transform active:scale-95"
