@@ -4,7 +4,7 @@ export const preferredStack = [
   { name: "Next.js", icon: "/resources/icons/nextjs.svg" },
   { name: "Tailwind", icon: "/resources/icons/tailwindcss.svg" },
   { name: "TypeScript", icon: "/resources/icons/typescript.svg" },
-  { name: "NestJS", icon: "/resources/icons/Nest.JS.png" },
+  { name: "NestJS", icon: "/resources/icons/NestJs.png" },
   { name: "PostgreSQL", icon: "/resources/icons/postgres.png" }
 ];
 
@@ -38,7 +38,7 @@ export const skillsData: SkillGroup[] = [
     title: "Tools & Workflow",
     colSpan: 2,
     type: "badges",
-    skills: ["GIT|/resources/icons/git.svg", "GITHUB|/resources/icons/github.svg", "GITLAB|/resources/icons/gitlab.png", "POSTMAN|/resources/icons/postman.svg", "FIGMA|/resources/icons/figma.svg", "JIRA|/resources/icons/jira.svg", "AZURE DEVOPS|/resources/icons/AzureDevOps.png"],
+    skills: ["GIT|/resources/icons/git.svg", "GITHUB|/resources/icons/github.svg", "GITLAB|/resources/icons/gitlab.png", "POSTMAN|/resources/icons/postman.svg", "FIGMA|/resources/icons/figma.svg", "JIRA|/resources/icons/jira.svg", "AZURE DEVOPS|/resources/icons/AzureDevops.png"],
   },
   {
     id: "desktop",
